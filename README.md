@@ -1,5 +1,6 @@
 # Python_PortfolioProject
 
-![Screenshot](images/Screenshot1.png)
+![Diagram](https://github.com/AnnabellemRuckle/Python_PortfolioProject/Images/Screenshot1.png)
+
 
 
